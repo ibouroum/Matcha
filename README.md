@@ -30,12 +30,12 @@ cd client && serve -s build -l [PORT]
 ```
 # Pictures
 * User profile
-![profile infos](server/public/images/profile info.png)
-![profile images](server/public/images/profile images.png)
+![profile infos](server/public/images/profileInfo.png)
+![profile images](server/public/images/profilePic.png)
 ![localisation](server/public/images/localisation.png)
 * Browse
 ![browse](server/public/images/browse.png)
-![view profile](server/public/images/view profile.png)
+![view profile](server/public/images/viewProfile.png)
 * Activity
 ![activity](server/public/images/activity.png)
 * Notification
